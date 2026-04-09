@@ -1,0 +1,21 @@
+deal_id,company_name,sector,stage,geography,founding_year,team_score,team_notes,tam_bn_usd,arr_usd,arr_growth_pct,gross_margin_pct,burn_rate_monthly_usd,cash_months_remaining,nrr_pct,paying_customers,has_product_market_fit,competitive_moat,ask_usd,proposed_valuation_usd,source,date_received,status
+D101,VoxAI,AI/Voice,Seed,US,2023,8.5,"Ex-Google DeepMind founders; PhD in speech synthesis",8.2,450000,380,72,120000,14,125,45,yes,proprietary_model,3000000,15000000,referral,2025-01-10,passed_to_partners
+D102,DataBridge,Data Infrastructure,Series A,UK,2021,7.0,"Second-time founder; team from Palantir and Snowflake",25.0,2800000,150,78,280000,18,118,120,yes,network_effects,15000000,75000000,inbound,2025-01-15,term_sheet
+D103,GreenRoute,Climate Tech,Seed,DE,2023,6.5,"Strong technical team; first-time founders",45.0,180000,200,55,95000,12,105,22,no,regulatory,2500000,12000000,cold_outreach,2025-01-22,declined
+D104,FinStack,Fintech,Series A,US,2022,8.0,"Ex-Stripe and Square engineers; repeat founder CEO",18.0,4200000,120,82,350000,15,130,280,yes,integrations,20000000,100000000,referral,2025-02-01,due_diligence
+D105,MedScribe,Health Tech,Seed,US,2024,7.5,"Clinical + ML background; advisor network strong",12.0,120000,500,65,85000,10,110,15,no,data_moat,2000000,10000000,conference,2025-02-08,passed_to_partners
+D106,SecureNet,Cybersecurity,Series A,IL,2021,9.0,"Unit 8200 alumni; deep domain expertise",55.0,5500000,95,75,420000,20,135,95,yes,proprietary_model,25000000,125000000,referral,2025-02-15,term_sheet
+D107,LearnLoop,EdTech,Seed,US,2023,5.5,"Passionate but inexperienced team; no prior exits",8.0,90000,180,60,70000,8,100,30,no,none,1500000,7500000,inbound,2025-02-22,declined
+D108,Wayfare,Travel Tech,Seed,UK,2024,7.0,"Ex-Booking.com product team; strong GTM instincts",35.0,320000,250,68,110000,15,115,55,yes,marketplace,3500000,17500000,referral,2025-03-01,due_diligence
+D109,BuildOS,Construction Tech,Series A,US,2022,7.5,"Industry veterans with 15+ years in construction",28.0,3200000,85,72,300000,16,122,180,yes,integrations,18000000,90000000,inbound,2025-03-10,passed_to_partners
+D110,NutrAI,Food Tech,Seed,DE,2023,6.0,"ML engineers; limited business experience",5.0,60000,300,45,80000,6,95,12,no,none,1000000,5000000,cold_outreach,2025-03-18,declined
+D111,CodePilot,AI/DevTools,Seed,US,2024,8.5,"Ex-GitHub and Cursor engineers; strong open source following",25.0,800000,450,80,150000,12,140,200,yes,community,5000000,25000000,referral,2025-03-25,term_sheet
+D112,PayGrid,Fintech,Series A,UK,2021,7.0,"Experienced fintech operators; good board",15.0,3800000,70,76,320000,22,112,150,yes,regulatory,16000000,80000000,inbound,2025-04-02,declined
+D113,StackAI,AI/Enterprise,Seed,US,2024,8.0,"Ex-Anthropic researcher; strong technical vision",40.0,250000,600,70,100000,18,130,20,yes,proprietary_model,4000000,20000000,conference,2025-04-10,due_diligence
+D114,LogiFlow,Supply Chain,Series A,NL,2022,6.5,"Solid operators; deep supply chain domain knowledge",30.0,2500000,60,65,250000,14,108,90,yes,integrations,12000000,60000000,cold_outreach,2025-04-18,declined
+D115,SoundHive,AI/Audio,Seed,US,2024,9.0,"Grammy-winning audio engineer + ex-Spotify ML lead",12.0,380000,420,74,130000,16,135,65,yes,proprietary_model,3500000,17500000,referral,2025-04-25,passed_to_partners
+D116,TrustLayer,Compliance,Series A,US,2022,7.5,"Legal tech veterans; strong enterprise sales motion",20.0,4800000,110,80,380000,19,128,210,yes,data_moat,22000000,110000000,referral,2025-05-05,due_diligence
+D117,FleetMind,Logistics,Seed,UK,2023,6.0,"First-time founders; strong technical but weak GTM",18.0,150000,220,58,90000,10,102,25,no,none,2000000,10000000,inbound,2025-05-12,declined
+D118,PixelForge,AI/Creative,Seed,US,2024,8.0,"Ex-Midjourney and Adobe Research; design-minded",15.0,550000,350,72,140000,14,120,85,yes,proprietary_model,4500000,22500000,conference,2025-05-20,passed_to_partners
+D119,CloudGuard,Cybersecurity,Series A,US,2021,8.5,"CTO is ex-CrowdStrike; strong advisory board",55.0,6200000,130,77,450000,24,132,160,yes,proprietary_model,28000000,140000000,referral,2025-05-28,term_sheet
+D120,AgriSense,Climate Tech,Seed,BR,2023,6.5,"Local domain expertise; limited international network",22.0,100000,280,50,75000,8,98,18,no,data_moat,1500000,7500000,cold_outreach,2025-06-05,declined
